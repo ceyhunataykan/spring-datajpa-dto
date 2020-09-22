@@ -1,1 +1,1 @@
-# spring-datajpa-dto
+# Spring Boot Data JPA and DTO
